@@ -1,0 +1,16 @@
+venv/
+/venv/
+env/
+/env
+__pycache__/*
+*/__pycache__
+wenv
+users/__pycache__/
+.pytest_cache
+counting/__pycache__/
+__pycache__/
+*.py[cod]
+*.pyc
+countingBackend/__pycache__/settings.cpython-38.pyc
+*.jpg
+*.jpeg
